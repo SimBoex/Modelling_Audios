@@ -1,3 +1,5 @@
 librosa
 pandas 
 numpy
+resampy
+tensorflow
