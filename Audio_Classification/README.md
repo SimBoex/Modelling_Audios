@@ -1,6 +1,5 @@
-# Modelling_Audios
+# Audio Classification
 
-Following the guide at the following [link](https://www.youtube.com/watch?v=mHPpCXqQd7Y)
-
-
-dataset: [here](https://urbansounddataset.weebly.com/download-urbansound8k.html)
+1. Following the tutorial at the following [link](https://www.youtube.com/watch?v=mHPpCXqQd7Y)
+   - with some improvements and theory integrated;
+3. Dataset: [here](https://urbansounddataset.weebly.com/download-urbansound8k.html)
